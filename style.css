@@ -9,6 +9,7 @@ body {
     color: #fafaee;
 }
 .bakery {
+    cursor: pointer;
     top: 30px;
     font-size: 20px;
     color: #f0dcc9;
